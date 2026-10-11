@@ -10,4 +10,4 @@
 - 💬 Ask me about Git, GitHub, data cleaning, and getting started in data science.
 - 📫 How to reach me: https://www.linkedin.com/in/mosissa-keneni-85
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: updating my skills with current technology, workhard and enjoy with friends and family.
+- ⚡ Fun fact: updating my skills with current technology, working hard, and enjoying time with friends and family.
