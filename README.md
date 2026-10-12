@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **MKeneni/MKeneni** is a junior data scientist building my skills in data analysis and machine learning.
 
 - 🔭 I’m currently working on a data analysis project that turns raw data into clear insights. 
